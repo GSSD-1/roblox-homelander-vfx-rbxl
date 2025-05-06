@@ -1,3 +1,4 @@
-Made some roblox VFX for homelander inspired games, contains non family friendly probably pg13 stuff but im sure its fine.
-In-game there are module scripts (i hope they are still there) containing instructions, information, and tips.
+Made some roblox VFX that is basically homelander related, because this is inspired by The boys there are blood related stuff in-game, you can remove these.
+In-game there are module scripts containing instructions, information, and tips.
 Its just VFX so there are no actual scripts there that do anything. its just the VFX.
+Thanks for downloading or using
